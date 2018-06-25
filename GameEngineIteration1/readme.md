@@ -1,0 +1,1 @@
+although it a bit loose on what seperates iterations of my game engine, this is iteration 1 code I believe. I am unsure since this code is very old from my perspective. however, I believe with 90% likeliness that this was my first iteration of my game engine.
