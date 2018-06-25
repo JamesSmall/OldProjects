@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<F2IBuilder>
+  <application>
+    <name>F2IBuilder</name>
+    <version>3.8</version>
+  </application>
+  <project>
+    <useMetrics>true</useMetrics>
+    <useAlpha>true</useAlpha>
+    <showGrid>true</showGrid>
+    <antialias>true</antialias>
+    <imageType>PNG</imageType>
+    <color>
+      <font>-13421773</font>
+      <shadow>-13421773</shadow>
+      <background>-13487566</background>
+    </color>
+    <style>
+      <bold>true</bold>
+    </style>
+    <font>
+      <name>Adobe Arabic</name>
+      <size>20</size>
+      <positionWidth>2</positionWidth>
+      <positionHeight>-7</positionHeight>
+    </font>
+    <texture>
+      <size>512</size>
+    </texture>
+    <shadow>
+      <vertical>VerticalNone</vertical>
+      <horizontal>HorizontalNone</horizontal>
+    </shadow>
+  </project>
+</F2IBuilder>
+
