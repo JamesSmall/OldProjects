@@ -1,0 +1,2845 @@
+Please send these errors to Allazham@hotmail.com
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
+[The system cannot find the path specified]
+java.io.IOException: The system cannot find the path specified
+	at java.io.WinNTFileSystem.createFileExclusively(Native Method)
+	at java.io.File.createNewFile(Unknown Source)
+	at Manager.World.SaveChunk(World.java:167)
+	at Manager.World.DestroyWorld(World.java:141)
+	at Manager.World$Closer.closeObject(World.java:450)
+	at Graphics.MasterClose$1.run(MasterClose.java:29)
+	at java.lang.Thread.run(Unknown Source)
